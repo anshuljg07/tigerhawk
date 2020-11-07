@@ -1,2 +1,3 @@
 print('Hello World')
-print('This is weird wtf!')
+x = 7 
+print (x)
