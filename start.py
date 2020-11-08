@@ -5,4 +5,6 @@ print("hi")
 x = 10
 print('This dumb')
 print("for sure")
-#testes
+
+def main():
+    print("this is our main")
